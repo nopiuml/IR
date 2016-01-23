@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/core/lucene-core-4.10.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/docs/core/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/demo/lucene-demo-4.10.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/docs/demo/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/analysis/common/lucene-analyzers-common-4.10.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/docs/analyzers-common/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/queryparser/lucene-queryparser-4.10.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/eugenia/PAPEI/ex_7/anakthsh_anaz_internet/lucene-4.10.2/docs/queryparser/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
